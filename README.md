@@ -39,6 +39,6 @@ I am Manu Jain, a graduate student from data engineer science graduate from [San
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi) -->
